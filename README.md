@@ -12,4 +12,4 @@ The purpose of the project is to analyze the impact of climate change and increa
   * Daily Summaries Dataset
   * Max temperature in F and inches of precipitation by day by location
 
-## Map of Oregon found online at https://geology.com/county-map/oregon.shtml 
+### Map of Oregon found online at https://geology.com/county-map/oregon.shtml 
