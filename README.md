@@ -2,6 +2,8 @@
 
 The purpose of the project is to analyze the impact of climate change and increasing temperatures in the western US and the incidence of wildfires and air quality in the Portland metro area over the last five years (2017-2022).
 
+Created by Christina Tetreault, Mitchel Rounds, and Adam Ropp.
+
 ## Datasets
 * OpenWeather
   * Location, Air pollution/quality https://openweathermap.org/api/air-pollution
